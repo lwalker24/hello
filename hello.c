@@ -10,7 +10,8 @@
 
 int main() {
 
-  printf("Henry Monahan");
+  printf("Henry Monahan\n");
+  printf("Emerging Media Arts\n");
 
   return 0;
 }
